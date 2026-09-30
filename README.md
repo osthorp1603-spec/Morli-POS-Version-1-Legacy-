@@ -1,4 +1,4 @@
-# Professional POS System - v1 (Legacy)
+#  MORLIGIFTSTORE POS — Version 1 (Legacy)
 ## Description
 Point of sale (POS) system for the complete management of a gift shop. It allows registering sales with a barcode scanner, controlling inventory, managing customers, creating gift baskets/decorations, generating invoices, and printing tickets on a thermal printer. It includes a full accounting module with reports for profit, cash flow, income statement, balance sheet, and more.
 
